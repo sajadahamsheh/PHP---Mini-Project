@@ -1,0 +1,12 @@
+.card {
+    margin: auto;
+    margin-top: 7rem;
+    /* box-shadow: ; */
+    box-shadow: 5px 10px 8px #888888;
+
+    /* background-color: rgb(98, 80, 115); */
+}
+
+/* body {
+    color: red;
+} */

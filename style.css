@@ -1,0 +1,17 @@
+/* body,
+html {
+  margin: 2rem;
+  font-size: .5rem;
+  text-align: center;
+} */
+* {
+  /* margin: auto; */
+  /* padding: auto; */
+}
+
+.card {
+  margin: auto;
+  margin-top: 1rem;
+  text-align: center;
+
+}

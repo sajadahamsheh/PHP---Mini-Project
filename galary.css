@@ -1,0 +1,17 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.galare {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    grid-gap: 2.2rem;
+}
+
+.galare img {
+    max-width: 500px !important;
+    height: 300px;
+}
